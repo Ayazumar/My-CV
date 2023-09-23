@@ -1,1 +1,4 @@
 my first class of AI in peshawar.
+git add .
+git commit -m "hi diamond"
+git push
